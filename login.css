@@ -22,6 +22,10 @@ body{
     background-color: rgb(247, 247, 45);
 }
 
+button:hover{
+    cursor: pointer;
+}
+
 
 
 @media (min-width: 992px) { 
